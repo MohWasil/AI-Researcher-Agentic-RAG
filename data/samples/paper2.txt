@@ -1,0 +1,5 @@
+Title: Example Research Paper Two
+Authors: B. Scientist
+2021
+
+We propose BetaLoss, which reduces error on benchmark X by 3.2%...

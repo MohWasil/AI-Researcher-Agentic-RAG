@@ -1,0 +1,12 @@
+# Ignore virtual environment folders
+venv/
+.venv/
+env/
+
+# Ignore tests folder
+tests/
+
+# Additional recommended Python ignores
+__pycache__/
+*.py[cod]
+*$py.class

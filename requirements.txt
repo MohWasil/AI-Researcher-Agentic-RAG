@@ -1,0 +1,14 @@
+faiss-cpu
+numpy
+sentence-transformers
+rank_bm25
+pdfplumber
+nltk
+tqdm
+pytest
+datasets
+faiss-cpu
+PyPDF
+pdfplumber
+jupyter
+ipykernel
