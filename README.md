@@ -48,7 +48,7 @@ A foundational prompt defined in `Cell 1` that instructs the LLM on its role as 
 
 ## How It Works
 
-1.  Place research documents (`.txt` or `.pdf`) in the `../data` directory.
+1.  Place research documents (`.txt` or `.pdf`) in the `/content/` directory.
 2.  Run the notebook cells sequentially.
 3.  Call `run_full_rag_workflow("Your Question Here")` with a relevant query.
 4.  The system will:
